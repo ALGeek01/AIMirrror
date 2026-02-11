@@ -55,7 +55,3 @@ yarn-error.log*
 *.so
 *.dylib
 
-# Large files (use Git LFS or upload separately)
-AIMirror-AIMirror.zip
-Armin_Tavassoli_Peter_Teresi_AIMirror_Representation.mov
-
